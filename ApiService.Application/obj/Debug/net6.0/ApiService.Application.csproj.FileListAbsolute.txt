@@ -1,0 +1,13 @@
+G:\001-Projects\ApiService\ApiService.Application\bin\Debug\net6.0\stylecop.json
+G:\001-Projects\ApiService\ApiService.Application\bin\Debug\net6.0\ApiService.Application.deps.json
+G:\001-Projects\ApiService\ApiService.Application\bin\Debug\net6.0\ApiService.Application.dll
+G:\001-Projects\ApiService\ApiService.Application\bin\Debug\net6.0\ApiService.Application.pdb
+G:\001-Projects\ApiService\ApiService.Application\obj\Debug\net6.0\ApiService.Application.csproj.AssemblyReference.cache
+G:\001-Projects\ApiService\ApiService.Application\obj\Debug\net6.0\ApiService.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\001-Projects\ApiService\ApiService.Application\obj\Debug\net6.0\ApiService.Application.AssemblyInfoInputs.cache
+G:\001-Projects\ApiService\ApiService.Application\obj\Debug\net6.0\ApiService.Application.AssemblyInfo.cs
+G:\001-Projects\ApiService\ApiService.Application\obj\Debug\net6.0\ApiService.Application.csproj.CoreCompileInputs.cache
+G:\001-Projects\ApiService\ApiService.Application\obj\Debug\net6.0\ApiService.Application.dll
+G:\001-Projects\ApiService\ApiService.Application\obj\Debug\net6.0\refint\ApiService.Application.dll
+G:\001-Projects\ApiService\ApiService.Application\obj\Debug\net6.0\ApiService.Application.pdb
+G:\001-Projects\ApiService\ApiService.Application\obj\Debug\net6.0\ref\ApiService.Application.dll

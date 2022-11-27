@@ -1,0 +1,13 @@
+G:\001-Projects\ApiService\ApiService.Domain\bin\Debug\net6.0\stylecop.json
+G:\001-Projects\ApiService\ApiService.Domain\bin\Debug\net6.0\ApiService.Domain.deps.json
+G:\001-Projects\ApiService\ApiService.Domain\bin\Debug\net6.0\ApiService.Domain.dll
+G:\001-Projects\ApiService\ApiService.Domain\bin\Debug\net6.0\ApiService.Domain.pdb
+G:\001-Projects\ApiService\ApiService.Domain\obj\Debug\net6.0\ApiService.Domain.csproj.AssemblyReference.cache
+G:\001-Projects\ApiService\ApiService.Domain\obj\Debug\net6.0\ApiService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\001-Projects\ApiService\ApiService.Domain\obj\Debug\net6.0\ApiService.Domain.AssemblyInfoInputs.cache
+G:\001-Projects\ApiService\ApiService.Domain\obj\Debug\net6.0\ApiService.Domain.AssemblyInfo.cs
+G:\001-Projects\ApiService\ApiService.Domain\obj\Debug\net6.0\ApiService.Domain.csproj.CoreCompileInputs.cache
+G:\001-Projects\ApiService\ApiService.Domain\obj\Debug\net6.0\ApiService.Domain.dll
+G:\001-Projects\ApiService\ApiService.Domain\obj\Debug\net6.0\refint\ApiService.Domain.dll
+G:\001-Projects\ApiService\ApiService.Domain\obj\Debug\net6.0\ApiService.Domain.pdb
+G:\001-Projects\ApiService\ApiService.Domain\obj\Debug\net6.0\ref\ApiService.Domain.dll

@@ -1,0 +1,22 @@
+﻿version: "3.8"
+services:
+
+  floward-sql-server:
+    container_name: floward-sql-server
+    build:
+      context: ./Database
+      dockerfile: Dockerfile
+    ports:
+      - "1433:1433"
+
+  rabbitmq3:
+     container_name: rabbitmq
+     image: rabbitmq:3.9.22-management
+     environment:
+            - RABBITMQ_DEFAULT_USER=floward
+            - RABBITMQ_DEFAULT_PASS=floward@Panel
+     ports:
+        # AMQP protocol port
+        - '5672:5672'
+        # HTTP management UI
+        - '15672:15672'

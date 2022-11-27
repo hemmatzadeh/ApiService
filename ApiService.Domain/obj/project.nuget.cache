@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jEOElCajAS1BNtYfEj3VfTY6ddPs8Jn+gpeDpTz7rCC9E5dKoZV9nB2ryKZdsA9eDIS3HtWCB1ilcdA/YlYnbg==",
+  "success": true,
+  "projectFilePath": "G:\\001-Projects\\ApiService\\ApiService.Domain\\ApiService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hemma\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

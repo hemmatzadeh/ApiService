@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O/+f9+dPWqyIqMO6bnBjnZPCbfaLZJe+GxkI9yfzYscDUqIYS870GL2x7QiXpjnN57QgSl4ARM6RLf2BpF4ufA==",
+  "success": true,
+  "projectFilePath": "G:\\001-Projects\\ApiService\\ApiService.Infrastructure\\ApiService.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hemma\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Hemma\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Hemma\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

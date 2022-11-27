@@ -1,0 +1,13 @@
+G:\001-Projects\ApiService\ApiService.Persistence\bin\Debug\net6.0\stylecop.json
+G:\001-Projects\ApiService\ApiService.Persistence\bin\Debug\net6.0\ApiService.Persistence.deps.json
+G:\001-Projects\ApiService\ApiService.Persistence\bin\Debug\net6.0\ApiService.Persistence.dll
+G:\001-Projects\ApiService\ApiService.Persistence\bin\Debug\net6.0\ApiService.Persistence.pdb
+G:\001-Projects\ApiService\ApiService.Persistence\obj\Debug\net6.0\ApiService.Persistence.csproj.AssemblyReference.cache
+G:\001-Projects\ApiService\ApiService.Persistence\obj\Debug\net6.0\ApiService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+G:\001-Projects\ApiService\ApiService.Persistence\obj\Debug\net6.0\ApiService.Persistence.AssemblyInfoInputs.cache
+G:\001-Projects\ApiService\ApiService.Persistence\obj\Debug\net6.0\ApiService.Persistence.AssemblyInfo.cs
+G:\001-Projects\ApiService\ApiService.Persistence\obj\Debug\net6.0\ApiService.Persistence.csproj.CoreCompileInputs.cache
+G:\001-Projects\ApiService\ApiService.Persistence\obj\Debug\net6.0\ApiService.Persistence.dll
+G:\001-Projects\ApiService\ApiService.Persistence\obj\Debug\net6.0\refint\ApiService.Persistence.dll
+G:\001-Projects\ApiService\ApiService.Persistence\obj\Debug\net6.0\ApiService.Persistence.pdb
+G:\001-Projects\ApiService\ApiService.Persistence\obj\Debug\net6.0\ref\ApiService.Persistence.dll

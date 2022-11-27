@@ -1,0 +1,13 @@
+G:\001-Projects\ApiService\ApiService.Infrastructure\bin\Debug\net6.0\stylecop.json
+G:\001-Projects\ApiService\ApiService.Infrastructure\bin\Debug\net6.0\ApiService.Infrastructure.deps.json
+G:\001-Projects\ApiService\ApiService.Infrastructure\bin\Debug\net6.0\ApiService.Infrastructure.dll
+G:\001-Projects\ApiService\ApiService.Infrastructure\bin\Debug\net6.0\ApiService.Infrastructure.pdb
+G:\001-Projects\ApiService\ApiService.Infrastructure\obj\Debug\net6.0\ApiService.Infrastructure.csproj.AssemblyReference.cache
+G:\001-Projects\ApiService\ApiService.Infrastructure\obj\Debug\net6.0\ApiService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\001-Projects\ApiService\ApiService.Infrastructure\obj\Debug\net6.0\ApiService.Infrastructure.AssemblyInfoInputs.cache
+G:\001-Projects\ApiService\ApiService.Infrastructure\obj\Debug\net6.0\ApiService.Infrastructure.AssemblyInfo.cs
+G:\001-Projects\ApiService\ApiService.Infrastructure\obj\Debug\net6.0\ApiService.Infrastructure.csproj.CoreCompileInputs.cache
+G:\001-Projects\ApiService\ApiService.Infrastructure\obj\Debug\net6.0\ApiService.Infrastructure.dll
+G:\001-Projects\ApiService\ApiService.Infrastructure\obj\Debug\net6.0\refint\ApiService.Infrastructure.dll
+G:\001-Projects\ApiService\ApiService.Infrastructure\obj\Debug\net6.0\ApiService.Infrastructure.pdb
+G:\001-Projects\ApiService\ApiService.Infrastructure\obj\Debug\net6.0\ref\ApiService.Infrastructure.dll
