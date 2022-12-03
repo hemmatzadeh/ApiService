@@ -1,22 +1,17 @@
 #See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
 
-FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS buil-env
 WORKDIR /app
-EXPOSE 80
-EXPOSE 443
 
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
-WORKDIR /src
-COPY ["Catalog_Service/Catalog_Service.csproj", "Catalog_Service/"]
-RUN dotnet restore "Catalog_Service/Catalog_Service.csproj"
-COPY . .
-WORKDIR "/src/Catalog_Service"
-RUN dotnet build "Catalog_Service.csproj" -c Release -o /app/build
+COPY *.csproj .
+RUN dotnet restore
+COPY . ./
 
-FROM build AS publish
-RUN dotnet publish "Catalog_Service.csproj" -c Release -o /app/publish
+RUN dotnet publish --no-restore -c Release -o out
 
-FROM base AS final
+
+FROM mcr.microsoft.com/dotnet/sdk:6.0
 WORKDIR /app
-COPY --from=publish /app/publish .
+COPY --from=buil-env /app/out .
+
 ENTRYPOINT ["dotnet", "Catalog_Service.dll"]
