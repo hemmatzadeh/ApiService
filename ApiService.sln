@@ -5,13 +5,13 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog_Service", "Catalog_Service\Catalog_Service.csproj", "{C329A4E5-AE2A-4039-8D48-1845D7D6A90F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiService.Application", "ApiService.Application\ApiService.Application.csproj", "{BFE2DD5F-6947-4BEF-90A0-845A05BBDA36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiService.Application", "ApiService.Application\ApiService.Application.csproj", "{BFE2DD5F-6947-4BEF-90A0-845A05BBDA36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiService.Domain", "ApiService.Domain\ApiService.Domain.csproj", "{21064ED9-F3FA-4A68-8335-F9D2A3A6146F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiService.Domain", "ApiService.Domain\ApiService.Domain.csproj", "{21064ED9-F3FA-4A68-8335-F9D2A3A6146F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiService.Persistence", "ApiService.Persistence\ApiService.Persistence.csproj", "{2E02945B-C325-4D48-B5CE-B7C4767CF671}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiService.Persistence", "ApiService.Persistence\ApiService.Persistence.csproj", "{2E02945B-C325-4D48-B5CE-B7C4767CF671}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiService.Infrastructure", "ApiService.Infrastructure\ApiService.Infrastructure.csproj", "{6FF17397-1C85-409B-AEC0-0E3EB89ED8AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiService.Infrastructure", "ApiService.Infrastructure\ApiService.Infrastructure.csproj", "{6FF17397-1C85-409B-AEC0-0E3EB89ED8AA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dockerFiles", "dockerFiles", "{93AAC911-E846-4585-9331-512454334B16}"
 	ProjectSection(SolutionItems) = preProject
@@ -28,6 +28,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Query", "Query", "{D84986D5
 	ProjectSection(SolutionItems) = preProject
 		DockerFiles\Database\Query\FlowardMsSQLSchema.sql = DockerFiles\Database\Query\FlowardMsSQLSchema.sql
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiService.Api", "ApiService.Api\ApiService.Api.csproj", "{3AA582A8-DBDE-4232-8A5C-90DAEC277FFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{6FF17397-1C85-409B-AEC0-0E3EB89ED8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FF17397-1C85-409B-AEC0-0E3EB89ED8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FF17397-1C85-409B-AEC0-0E3EB89ED8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA582A8-DBDE-4232-8A5C-90DAEC277FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA582A8-DBDE-4232-8A5C-90DAEC277FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA582A8-DBDE-4232-8A5C-90DAEC277FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA582A8-DBDE-4232-8A5C-90DAEC277FFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
